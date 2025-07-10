@@ -4,3 +4,4 @@ SQLAlchemy==2.0.30
 streamlit==1.36.0
 plotly==5.22.0
 matplotlib==3.9.0
+seaborn
