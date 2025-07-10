@@ -1,0 +1,578 @@
+Date,Category,Payment_Mode,Description,Amount_Paid,Cashback
+2024-01-01,Subscriptions,Online,Gym membership (with 0% cashback offer),317.82,2.95
+2024-01-02,Food & Dining,Online,Snacks (with 0% cashback offer),1334.77,8.95
+2024-01-02,Health,Online,Health check-up,307.19,0.0
+2024-01-03,Transportation,Cash,Bus fare,68.22,0.0
+2024-01-04,Rent,Online,Monthly rent payment (with 1% cashback offer),11885.47,175.0
+2024-01-04,Miscellaneous,Cash,Nostrum a.,290.01,0.0
+2024-01-05,Personal Care,Cash,Salon visit,343.29,0.0
+2024-01-05,Personal Care,Online,Haircut,432.1,0.0
+2024-01-05,Miscellaneous,Cash,Harum veniam molestiae eaque.,823.15,0.0
+2024-01-08,Rent,Online,Monthly rent payment,27015.63,0.0
+2024-01-09,Groceries,Online,Daily essentials,873.32,0.0
+2024-01-11,Travel,Online,Travel insurance,5603.2,0.0
+2024-01-12,Gifts,Online,Festival gift,1015.37,0.0
+2024-01-12,Miscellaneous,Online,Nostrum error esse. (with 1% cashback offer),524.31,7.13
+2024-01-12,Bills,Online,Internet bill,7855.3,0.0
+2024-01-14,Health,Cash,Doctor visit,1799.74,0.0
+2024-01-14,Food & Dining,Cash,Takeaway food,214.87,0.0
+2024-01-16,Shopping,Online,Home decor,3461.68,0.0
+2024-01-16,Miscellaneous,Online,Sint earum.,223.21,0.0
+2024-01-17,Bills,Online,Internet bill (with 0% cashback offer),5930.14,55.72
+2024-01-17,Bills,Online,Internet bill,6361.48,0.0
+2024-01-18,Subscriptions,Online,Netflix subscription (with 0% cashback offer),288.23,1.76
+2024-01-19,Personal Care,Cash,Cosmetics,595.15,0.0
+2024-01-20,Subscriptions,Online,Gym membership,164.63,0.0
+2024-01-21,Entertainment,Online,Gaming purchase,903.29,0.0
+2024-01-22,Shopping,Cash,Clothes shopping,4673.36,0.0
+2024-01-22,Subscriptions,Online,Software license,152.34,0.0
+2024-01-23,Miscellaneous,Online,Laboriosam ipsam provident. (with 1% cashback offer),544.09,8.17
+2024-01-23,Personal Care,Cash,Haircut,202.7,0.0
+2024-01-23,Shopping,Online,Clothes shopping (with 1% cashback offer),3899.79,69.38
+2024-01-24,Gifts,Cash,Anniversary present,1810.05,0.0
+2024-01-24,Travel,Online,Local sight-seeing,8224.07,0.0
+2024-01-25,Bills,Online,Internet bill,4508.78,0.0
+2024-01-25,Bills,Online,Internet bill (with 1% cashback offer),6151.34,118.96
+2024-01-26,Subscriptions,Online,Gym membership (with 1% cashback offer),257.08,2.76
+2024-01-26,Utilities,Online,Sewage bill,879.48,0.0
+2024-01-27,Travel,Online,Travel insurance,3543.79,0.0
+2024-01-28,Entertainment,Online,Concert entry (with 1% cashback offer),992.2,16.46
+2024-01-28,Utilities,Online,Sewage bill (with 0% cashback offer),1380.15,12.48
+2024-01-29,Rent,Cash,Monthly rent payment,5491.89,0.0
+2024-01-29,Insurance,Online,Health insurance premium (with 0% cashback offer),4736.88,26.54
+2024-01-29,Subscriptions,Online,Gym membership,104.2,0.0
+2024-01-31,Groceries,Online,Supermarket run (with 1% cashback offer),552.65,7.96
+2024-02-01,Personal Care,Online,Pharmacy purchase,324.3,0.0
+2024-02-01,Travel,Online,Hotel booking,14177.47,0.0
+2024-02-02,Travel,Cash,Local sight-seeing,14650.73,0.0
+2024-02-02,Miscellaneous,Online,Totam aliquam id.,376.08,0.0
+2024-02-03,Bills,Cash,Internet bill,3224.83,0.0
+2024-02-03,Transportation,Cash,Fuel refill,563.59,0.0
+2024-02-04,Health,Online,Doctor visit,2373.97,0.0
+2024-02-05,Insurance,Online,Health insurance premium,1091.49,0.0
+2024-02-05,Subscriptions,Online,Gym membership,320.2,0.0
+2024-02-06,Education,Online,Books for study,3284.38,0.0
+2024-02-07,Health,Online,Medicines,1722.92,0.0
+2024-02-08,Food & Dining,Online,Cafe latte (with 0% cashback offer),769.23,6.69
+2024-02-08,Education,Online,Books for study (with 0% cashback offer),1668.74,10.81
+2024-02-09,Subscriptions,Online,Software license,340.68,0.0
+2024-02-10,Miscellaneous,Online,Labore impedit.,765.42,0.0
+2024-02-11,Personal Care,Online,Pharmacy purchase,581.51,0.0
+2024-02-11,Entertainment,Online,Books (with 1% cashback offer),854.67,11.81
+2024-02-11,Insurance,Cash,Health insurance premium,2543.53,0.0
+2024-02-12,Food & Dining,Cash,Snacks,1152.6,0.0
+2024-02-12,Education,Online,Course fees,6604.62,0.0
+2024-02-13,Health,Cash,Health check-up,2080.28,0.0
+2024-02-13,Shopping,Online,Electronics,762.43,0.0
+2024-02-15,Utilities,Online,Sewage bill,654.87,0.0
+2024-02-16,Transportation,Online,Fuel refill (with 0% cashback offer),567.1,4.8
+2024-02-17,Food & Dining,Online,Lunch with colleagues,1185.58,0.0
+2024-02-17,Subscriptions,Online,Software license,218.33,0.0
+2024-02-17,Personal Care,Online,Pharmacy purchase,185.61,0.0
+2024-02-18,Bills,Online,Electricity bill (with 1% cashback offer),1511.45,16.62
+2024-02-18,Travel,Online,Hotel booking (with 1% cashback offer),7519.41,130.94
+2024-02-18,Subscriptions,Online,Software license,322.83,0.0
+2024-02-20,Bills,Online,Phone bill,6869.07,0.0
+2024-02-20,Health,Online,Health check-up,250.13,0.0
+2024-02-20,Gifts,Online,Festival gift,611.38,0.0
+2024-02-21,Rent,Online,Monthly rent payment (with 0% cashback offer),6726.85,54.1
+2024-02-21,Rent,Online,Monthly rent payment (with 1% cashback offer),12654.29,223.44
+2024-02-21,Gifts,Online,Festival gift,583.01,0.0
+2024-02-22,Subscriptions,Online,Gym membership,280.75,0.0
+2024-02-23,Bills,Online,Internet bill,4841.44,0.0
+2024-02-23,Travel,Cash,Hotel booking,14439.98,0.0
+2024-02-24,Miscellaneous,Cash,A sapiente dolore atque.,527.57,0.0
+2024-02-25,Personal Care,Cash,Cosmetics,623.96,0.0
+2024-02-26,Travel,Cash,Hotel booking,11340.77,0.0
+2024-02-28,Subscriptions,Online,Netflix subscription,279.86,0.0
+2024-02-29,Rent,Online,Monthly rent payment,14323.7,0.0
+2024-02-29,Utilities,Online,Sewage bill,670.68,0.0
+2024-02-29,Subscriptions,Cash,Gym membership,130.6,0.0
+2024-03-01,Food & Dining,Online,Takeaway food,1083.86,0.0
+2024-03-02,Groceries,Online,Supermarket run,2966.25,0.0
+2024-03-04,Subscriptions,Online,Spotify premium,435.24,0.0
+2024-03-04,Utilities,Online,Sewage bill,1504.77,0.0
+2024-03-05,Subscriptions,Online,Spotify premium (with 0% cashback offer),118.39,1.0
+2024-03-05,Miscellaneous,Cash,Iusto soluta.,588.75,0.0
+2024-03-06,Travel,Online,Flight ticket,4338.53,0.0
+2024-03-06,Shopping,Online,Clothes shopping,2487.39,0.0
+2024-03-06,Groceries,Online,Supermarket run (with 1% cashback offer),1926.48,22.91
+2024-03-08,Bills,Online,Electricity bill (with 1% cashback offer),3613.66,41.99
+2024-03-09,Insurance,Online,Health insurance premium,3592.54,0.0
+2024-03-09,Bills,Cash,Internet bill,5874.11,0.0
+2024-03-10,Insurance,Online,Vehicle insurance,3134.23,0.0
+2024-03-10,Insurance,Cash,Vehicle insurance,3992.73,0.0
+2024-03-11,Travel,Online,Hotel booking (with 1% cashback offer),11585.98,141.21
+2024-03-12,Bills,Online,Internet bill,4510.98,0.0
+2024-03-13,Entertainment,Cash,Gaming purchase,526.3,0.0
+2024-03-14,Transportation,Online,Metro travel (with 0% cashback offer),679.23,5.17
+2024-03-15,Transportation,Cash,Cab ride,326.27,0.0
+2024-03-15,Groceries,Online,Weekly groceries (with 1% cashback offer),2829.11,56.4
+2024-03-16,Subscriptions,Online,Spotify premium (with 1% cashback offer),373.9,5.73
+2024-03-16,Education,Cash,Tuition,7360.46,0.0
+2024-03-16,Groceries,Online,Daily essentials,2854.33,0.0
+2024-03-17,Groceries,Cash,Daily essentials,2456.49,0.0
+2024-03-17,Subscriptions,Cash,Netflix subscription,107.93,0.0
+2024-03-18,Gifts,Online,Birthday gift (with 1% cashback offer),1582.17,19.11
+2024-03-18,Gifts,Online,Anniversary present,1773.44,0.0
+2024-03-18,Entertainment,Cash,Concert entry,599.36,0.0
+2024-03-19,Personal Care,Online,Cosmetics,590.86,0.0
+2024-03-19,Subscriptions,Cash,Software license,346.01,0.0
+2024-03-20,Personal Care,Online,Pharmacy purchase (with 1% cashback offer),691.59,13.51
+2024-03-20,Bills,Online,Water bill (with 1% cashback offer),2291.99,23.36
+2024-03-21,Education,Online,Tuition,5362.29,0.0
+2024-03-23,Travel,Cash,Local sight-seeing,8901.77,0.0
+2024-03-23,Gifts,Online,Birthday gift,1940.61,0.0
+2024-03-23,Bills,Cash,Phone bill,2669.26,0.0
+2024-03-24,Utilities,Online,Gas bill (with 0% cashback offer),1426.05,10.18
+2024-03-25,Travel,Online,Local sight-seeing,11167.67,0.0
+2024-03-26,Subscriptions,Online,Gym membership,226.72,0.0
+2024-03-27,Gifts,Online,Birthday gift,1156.67,0.0
+2024-03-27,Entertainment,Online,Books (with 0% cashback offer),1137.86,6.75
+2024-03-27,Education,Online,Course fees,8099.23,0.0
+2024-03-28,Gifts,Online,Anniversary present,1722.83,0.0
+2024-03-29,Utilities,Online,Gas bill,2295.31,0.0
+2024-03-29,Gifts,Online,Festival gift,1868.89,0.0
+2024-03-29,Insurance,Cash,Vehicle insurance,4791.48,0.0
+2024-04-01,Groceries,Online,Supermarket run (with 0% cashback offer),672.69,4.06
+2024-04-02,Insurance,Online,Health insurance premium,4211.1,0.0
+2024-04-02,Insurance,Online,Health insurance premium (with 1% cashback offer),4175.28,66.77
+2024-04-03,Insurance,Online,Health insurance premium,2070.19,0.0
+2024-04-03,Travel,Cash,Flight ticket,4872.86,0.0
+2024-04-04,Miscellaneous,Cash,Quaerat perferendis labore occaecati.,343.51,0.0
+2024-04-06,Rent,Online,Monthly rent payment,19987.13,0.0
+2024-04-06,Transportation,Online,Fuel refill,526.12,0.0
+2024-04-06,Health,Online,Health check-up,1886.34,0.0
+2024-04-07,Food & Dining,Cash,Lunch with colleagues,438.39,0.0
+2024-04-07,Entertainment,Online,Movie tickets,1016.66,0.0
+2024-04-07,Shopping,Online,Online purchase,4933.64,0.0
+2024-04-08,Health,Online,Health check-up,206.55,0.0
+2024-04-08,Rent,Online,Monthly rent payment,24398.36,0.0
+2024-04-09,Personal Care,Online,Salon visit,558.84,0.0
+2024-04-10,Transportation,Online,Bus fare,721.58,0.0
+2024-04-10,Health,Online,Health check-up,1557.54,0.0
+2024-04-11,Subscriptions,Online,Netflix subscription (with 1% cashback offer),302.15,4.24
+2024-04-11,Subscriptions,Cash,Software license,224.38,0.0
+2024-04-11,Food & Dining,Online,Takeaway food,763.37,0.0
+2024-04-12,Food & Dining,Cash,Takeaway food,736.79,0.0
+2024-04-12,Entertainment,Online,Movie tickets,587.24,0.0
+2024-04-12,Health,Online,Health check-up,1969.99,0.0
+2024-04-14,Insurance,Online,Health insurance premium (with 0% cashback offer),2048.22,20.17
+2024-04-14,Subscriptions,Online,Netflix subscription,379.45,0.0
+2024-04-15,Health,Cash,Doctor visit,2430.48,0.0
+2024-04-15,Insurance,Online,Health insurance premium,3971.12,0.0
+2024-04-16,Insurance,Cash,Vehicle insurance,3124.43,0.0
+2024-04-16,Groceries,Online,Daily essentials,1796.54,0.0
+2024-04-17,Utilities,Online,Sewage bill (with 1% cashback offer),2182.93,37.33
+2024-04-18,Utilities,Online,Gas bill,2043.23,0.0
+2024-04-19,Personal Care,Cash,Cosmetics,192.94,0.0
+2024-04-19,Gifts,Cash,Festival gift,1347.28,0.0
+2024-04-20,Insurance,Cash,Health insurance premium,1054.85,0.0
+2024-04-20,Personal Care,Online,Pharmacy purchase,368.42,0.0
+2024-04-20,Personal Care,Online,Pharmacy purchase,356.52,0.0
+2024-04-21,Gifts,Online,Birthday gift (with 1% cashback offer),319.21,5.4
+2024-04-21,Entertainment,Online,Books,1022.39,0.0
+2024-04-21,Subscriptions,Online,Spotify premium (with 0% cashback offer),473.23,2.96
+2024-04-22,Transportation,Cash,Cab ride,915.27,0.0
+2024-04-22,Personal Care,Online,Pharmacy purchase,396.71,0.0
+2024-04-23,Bills,Cash,Electricity bill,7685.59,0.0
+2024-04-25,Bills,Online,Electricity bill,6746.89,0.0
+2024-04-25,Subscriptions,Online,Spotify premium,107.73,0.0
+2024-04-26,Miscellaneous,Online,Magnam accusamus praesentium tempora architecto.,784.87,0.0
+2024-04-27,Entertainment,Online,Books,1493.56,0.0
+2024-04-28,Gifts,Online,Anniversary present,1125.67,0.0
+2024-04-29,Subscriptions,Online,Software license (with 1% cashback offer),101.75,1.46
+2024-04-29,Health,Cash,Doctor visit,862.14,0.0
+2024-04-30,Groceries,Online,Supermarket run,1831.52,0.0
+2024-05-02,Transportation,Online,Train ticket (with 1% cashback offer),205.32,2.61
+2024-05-02,Food & Dining,Cash,Restaurant dinner,540.39,0.0
+2024-05-04,Health,Online,Health check-up,511.88,0.0
+2024-05-05,Entertainment,Online,Books (with 1% cashback offer),846.25,8.53
+2024-05-05,Education,Online,Tuition,8809.3,0.0
+2024-05-05,Gifts,Cash,Birthday gift,1519.7,0.0
+2024-05-06,Insurance,Cash,Vehicle insurance,3062.44,0.0
+2024-05-06,Gifts,Cash,Festival gift,1559.5,0.0
+2024-05-07,Bills,Online,Electricity bill,7306.54,0.0
+2024-05-07,Utilities,Cash,Gas bill,1166.48,0.0
+2024-05-08,Subscriptions,Online,Netflix subscription (with 0% cashback offer),360.92,2.21
+2024-05-08,Utilities,Online,Gas bill,2491.46,0.0
+2024-05-09,Rent,Online,Monthly rent payment,29320.97,0.0
+2024-05-09,Entertainment,Online,Concert entry,517.41,0.0
+2024-05-10,Personal Care,Cash,Pharmacy purchase,666.73,0.0
+2024-05-10,Personal Care,Cash,Pharmacy purchase,126.94,0.0
+2024-05-10,Rent,Online,Monthly rent payment (with 1% cashback offer),27047.37,291.79
+2024-05-11,Food & Dining,Online,Cafe latte,1327.65,0.0
+2024-05-13,Travel,Online,Travel insurance,7097.04,0.0
+2024-05-14,Miscellaneous,Online,Eius doloremque dolorem consequatur.,113.8,0.0
+2024-05-16,Shopping,Online,Home decor,3555.33,0.0
+2024-05-16,Food & Dining,Online,Takeaway food (with 1% cashback offer),526.99,9.81
+2024-05-17,Bills,Online,Water bill,7421.35,0.0
+2024-05-18,Miscellaneous,Online,Explicabo cum nostrum nostrum.,746.69,0.0
+2024-05-19,Bills,Online,Internet bill,1859.81,0.0
+2024-05-19,Food & Dining,Cash,Restaurant dinner,965.14,0.0
+2024-05-19,Gifts,Online,Anniversary present (with 1% cashback offer),1343.35,13.57
+2024-05-20,Education,Cash,Tuition,1267.65,0.0
+2024-05-21,Travel,Cash,Flight ticket,7741.47,0.0
+2024-05-21,Transportation,Online,Train ticket,101.81,0.0
+2024-05-21,Gifts,Cash,Festival gift,210.65,0.0
+2024-05-23,Travel,Online,Travel insurance (with 1% cashback offer),7867.18,105.86
+2024-05-23,Rent,Cash,Monthly rent payment,11708.77,0.0
+2024-05-23,Food & Dining,Online,Restaurant dinner,1157.14,0.0
+2024-05-24,Subscriptions,Online,Gym membership,474.74,0.0
+2024-05-24,Education,Online,Tuition,2563.43,0.0
+2024-05-24,Travel,Online,Hotel booking (with 1% cashback offer),8917.32,141.89
+2024-05-25,Travel,Online,Local sight-seeing (with 0% cashback offer),4794.56,30.14
+2024-05-26,Bills,Online,Water bill,4201.95,0.0
+2024-05-27,Subscriptions,Online,Gym membership,363.54,0.0
+2024-05-27,Groceries,Online,Vegetables & fruits (with 0% cashback offer),1068.73,9.68
+2024-05-28,Utilities,Online,Gas bill (with 1% cashback offer),1666.27,24.26
+2024-05-28,Utilities,Online,Gas bill,641.1,0.0
+2024-05-30,Personal Care,Online,Cosmetics,594.29,0.0
+2024-05-30,Food & Dining,Online,Takeaway food,285.01,0.0
+2024-05-31,Shopping,Online,Electronics (with 1% cashback offer),4869.22,66.29
+2024-06-02,Food & Dining,Online,Restaurant dinner,1055.62,0.0
+2024-06-03,Rent,Online,Monthly rent payment (with 1% cashback offer),20801.42,286.41
+2024-06-04,Rent,Cash,Monthly rent payment,29917.76,0.0
+2024-06-04,Miscellaneous,Online,Repudiandae porro voluptatum ad.,363.53,0.0
+2024-06-05,Personal Care,Online,Haircut,423.88,0.0
+2024-06-06,Health,Cash,Doctor visit,1185.33,0.0
+2024-06-07,Health,Online,Doctor visit (with 0% cashback offer),2023.87,18.48
+2024-06-08,Health,Online,Medicines (with 1% cashback offer),1885.03,37.51
+2024-06-10,Bills,Cash,Electricity bill,2550.01,0.0
+2024-06-10,Bills,Online,Electricity bill (with 0% cashback offer),7187.5,49.02
+2024-06-10,Health,Online,Health check-up,622.03,0.0
+2024-06-11,Health,Online,Health check-up,708.95,0.0
+2024-06-11,Entertainment,Online,Concert entry,1316.75,0.0
+2024-06-12,Entertainment,Online,Concert entry (with 1% cashback offer),1249.67,16.88
+2024-06-13,Miscellaneous,Online,Facilis placeat facilis ea dolorum.,431.83,0.0
+2024-06-14,Bills,Online,Internet bill (with 1% cashback offer),5809.08,75.24
+2024-06-14,Transportation,Cash,Bus fare,714.9,0.0
+2024-06-15,Entertainment,Online,Concert entry,946.12,0.0
+2024-06-16,Entertainment,Online,Books,1337.06,0.0
+2024-06-17,Personal Care,Cash,Salon visit,335.33,0.0
+2024-06-17,Travel,Online,Flight ticket,6270.7,0.0
+2024-06-17,Food & Dining,Online,Takeaway food,777.22,0.0
+2024-06-18,Bills,Online,Phone bill,4117.29,0.0
+2024-06-19,Rent,Cash,Monthly rent payment,17739.81,0.0
+2024-06-19,Transportation,Online,Bus fare (with 0% cashback offer),973.21,7.45
+2024-06-20,Shopping,Cash,Clothes shopping,1339.38,0.0
+2024-06-21,Gifts,Online,Anniversary present (with 0% cashback offer),1516.33,11.33
+2024-06-21,Personal Care,Online,Cosmetics (with 0% cashback offer),577.8,4.1
+2024-06-21,Transportation,Online,Fuel refill,432.49,0.0
+2024-06-22,Food & Dining,Online,Lunch with colleagues,1131.66,0.0
+2024-06-22,Personal Care,Cash,Salon visit,362.84,0.0
+2024-06-23,Subscriptions,Online,Gym membership,470.78,0.0
+2024-06-23,Gifts,Online,Anniversary present,237.22,0.0
+2024-06-23,Food & Dining,Online,Cafe latte,655.29,0.0
+2024-06-24,Education,Online,Course fees,3588.63,0.0
+2024-06-25,Groceries,Cash,Supermarket run,1645.72,0.0
+2024-06-25,Health,Online,Medicines (with 0% cashback offer),630.36,3.98
+2024-06-25,Personal Care,Cash,Haircut,586.06,0.0
+2024-06-26,Health,Cash,Medicines,1577.1,0.0
+2024-06-27,Health,Online,Doctor visit,2124.68,0.0
+2024-06-28,Gifts,Online,Festival gift (with 1% cashback offer),1324.49,18.34
+2024-06-28,Entertainment,Cash,Movie tickets,504.45,0.0
+2024-06-29,Utilities,Online,Sewage bill,1909.81,0.0
+2024-06-30,Travel,Cash,Travel insurance,10082.1,0.0
+2024-06-30,Entertainment,Online,Movie tickets (with 1% cashback offer),582.26,11.62
+2024-07-01,Shopping,Online,Online purchase,3659.82,0.0
+2024-07-01,Bills,Online,Electricity bill (with 1% cashback offer),6280.59,68.19
+2024-07-02,Insurance,Online,Health insurance premium,3244.49,0.0
+2024-07-03,Travel,Cash,Hotel booking,3008.58,0.0
+2024-07-03,Miscellaneous,Online,Accusamus ab. (with 1% cashback offer),788.81,14.54
+2024-07-03,Insurance,Online,Vehicle insurance,3218.8,0.0
+2024-07-04,Utilities,Online,Gas bill,703.24,0.0
+2024-07-04,Education,Online,Course fees,2459.04,0.0
+2024-07-04,Subscriptions,Cash,Netflix subscription,336.78,0.0
+2024-07-05,Subscriptions,Online,Gym membership,229.46,0.0
+2024-07-06,Entertainment,Online,Gaming purchase,389.74,0.0
+2024-07-07,Gifts,Cash,Anniversary present,1885.53,0.0
+2024-07-08,Subscriptions,Cash,Gym membership,207.46,0.0
+2024-07-08,Travel,Online,Flight ticket (with 0% cashback offer),14041.72,129.25
+2024-07-09,Entertainment,Online,Gaming purchase,1321.29,0.0
+2024-07-10,Bills,Online,Water bill,3566.42,0.0
+2024-07-10,Health,Online,Doctor visit (with 0% cashback offer),702.72,6.13
+2024-07-11,Gifts,Online,Festival gift,1179.68,0.0
+2024-07-12,Utilities,Online,Sewage bill,1277.77,0.0
+2024-07-13,Gifts,Online,Anniversary present,1669.83,0.0
+2024-07-14,Health,Online,Medicines,767.16,0.0
+2024-07-15,Gifts,Online,Anniversary present,1171.57,0.0
+2024-07-15,Groceries,Online,Vegetables & fruits (with 0% cashback offer),1691.26,13.67
+2024-07-16,Transportation,Online,Train ticket,865.77,0.0
+2024-07-16,Gifts,Cash,Festival gift,722.47,0.0
+2024-07-16,Travel,Online,Flight ticket,3406.42,0.0
+2024-07-17,Health,Online,Medicines,285.12,0.0
+2024-07-18,Transportation,Online,Metro travel (with 0% cashback offer),648.99,5.09
+2024-07-18,Entertainment,Cash,Concert entry,1070.06,0.0
+2024-07-20,Rent,Online,Monthly rent payment,9171.46,0.0
+2024-07-21,Insurance,Online,Vehicle insurance,3582.43,0.0
+2024-07-21,Insurance,Cash,Health insurance premium,4163.55,0.0
+2024-07-22,Rent,Cash,Monthly rent payment,29778.73,0.0
+2024-07-23,Utilities,Online,Gas bill,1718.59,0.0
+2024-07-23,Insurance,Online,Health insurance premium (with 1% cashback offer),1315.84,21.03
+2024-07-24,Gifts,Cash,Anniversary present,1499.24,0.0
+2024-07-24,Health,Online,Doctor visit,1826.72,0.0
+2024-07-24,Utilities,Cash,Sewage bill,1175.66,0.0
+2024-07-25,Education,Online,Books for study,1768.11,0.0
+2024-07-26,Education,Cash,Tuition,2330.26,0.0
+2024-07-27,Groceries,Online,Weekly groceries,1386.09,0.0
+2024-07-27,Insurance,Online,Vehicle insurance (with 1% cashback offer),3342.36,38.86
+2024-07-28,Shopping,Online,Online purchase,1678.32,0.0
+2024-07-28,Food & Dining,Online,Lunch with colleagues,514.22,0.0
+2024-07-28,Gifts,Cash,Anniversary present,550.29,0.0
+2024-07-29,Health,Online,Doctor visit,561.15,0.0
+2024-07-29,Entertainment,Online,Movie tickets,1126.31,0.0
+2024-07-30,Groceries,Online,Weekly groceries (with 1% cashback offer),2220.57,27.44
+2024-07-30,Shopping,Cash,Electronics,4647.03,0.0
+2024-07-31,Transportation,Cash,Bus fare,198.09,0.0
+2024-07-31,Gifts,Online,Festival gift (with 1% cashback offer),831.91,14.23
+2024-07-31,Utilities,Online,Sewage bill,2205.79,0.0
+2024-08-01,Health,Online,Medicines,597.74,0.0
+2024-08-01,Gifts,Cash,Anniversary present,1235.28,0.0
+2024-08-01,Gifts,Online,Anniversary present (with 1% cashback offer),1588.26,31.49
+2024-08-02,Subscriptions,Online,Netflix subscription,198.32,0.0
+2024-08-02,Health,Cash,Health check-up,1143.26,0.0
+2024-08-03,Health,Online,Doctor visit (with 1% cashback offer),858.03,10.11
+2024-08-03,Shopping,Online,Home decor (with 0% cashback offer),3938.92,21.02
+2024-08-03,Travel,Online,Travel insurance,7746.26,0.0
+2024-08-05,Insurance,Cash,Health insurance premium,3787.1,0.0
+2024-08-06,Insurance,Online,Health insurance premium,2737.0,0.0
+2024-08-06,Shopping,Online,Clothes shopping,2192.68,0.0
+2024-08-06,Education,Cash,Tuition,1901.15,0.0
+2024-08-07,Insurance,Online,Health insurance premium,2960.03,0.0
+2024-08-07,Entertainment,Online,Gaming purchase,759.16,0.0
+2024-08-08,Health,Online,Health check-up,269.97,0.0
+2024-08-08,Entertainment,Cash,Movie tickets,703.28,0.0
+2024-08-10,Insurance,Online,Vehicle insurance (with 0% cashback offer),3899.71,34.95
+2024-08-10,Miscellaneous,Cash,Dolores officiis.,170.61,0.0
+2024-08-12,Travel,Online,Travel insurance (with 0% cashback offer),6257.3,62.11
+2024-08-12,Travel,Online,Hotel booking (with 1% cashback offer),8840.12,92.29
+2024-08-13,Transportation,Online,Train ticket (with 1% cashback offer),465.57,5.67
+2024-08-13,Insurance,Cash,Health insurance premium,4426.63,0.0
+2024-08-14,Bills,Online,Electricity bill (with 1% cashback offer),4893.37,79.01
+2024-08-15,Personal Care,Cash,Cosmetics,665.05,0.0
+2024-08-15,Subscriptions,Cash,Software license,311.72,0.0
+2024-08-15,Miscellaneous,Cash,Perspiciatis accusamus veritatis.,61.9,0.0
+2024-08-16,Subscriptions,Cash,Software license,232.72,0.0
+2024-08-16,Health,Online,Health check-up,1306.01,0.0
+2024-08-17,Transportation,Online,Cab ride,273.5,0.0
+2024-08-18,Food & Dining,Online,Snacks,836.79,0.0
+2024-08-18,Bills,Online,Phone bill (with 1% cashback offer),7837.27,99.79
+2024-08-19,Transportation,Cash,Fuel refill,495.97,0.0
+2024-08-20,Health,Online,Health check-up,790.89,0.0
+2024-08-21,Insurance,Online,Health insurance premium,3983.09,0.0
+2024-08-22,Education,Cash,Course fees,9187.94,0.0
+2024-08-22,Bills,Online,Phone bill,6589.68,0.0
+2024-08-23,Rent,Online,Monthly rent payment,14379.55,0.0
+2024-08-24,Entertainment,Online,Concert entry (with 0% cashback offer),794.41,7.54
+2024-08-25,Travel,Online,Hotel booking,13473.87,0.0
+2024-08-25,Bills,Online,Internet bill,3810.49,0.0
+2024-08-26,Gifts,Online,Festival gift,608.73,0.0
+2024-08-27,Groceries,Online,Daily essentials,851.15,0.0
+2024-08-29,Insurance,Online,Vehicle insurance,4261.49,0.0
+2024-08-29,Insurance,Online,Vehicle insurance (with 0% cashback offer),3989.63,28.63
+2024-08-30,Travel,Cash,Flight ticket,6549.79,0.0
+2024-08-31,Shopping,Cash,Clothes shopping,857.81,0.0
+2024-09-01,Transportation,Online,Bus fare (with 0% cashback offer),378.41,2.23
+2024-09-02,Bills,Online,Phone bill,2204.22,0.0
+2024-09-03,Transportation,Cash,Bus fare,52.61,0.0
+2024-09-03,Insurance,Cash,Vehicle insurance,2436.66,0.0
+2024-09-03,Transportation,Online,Bus fare,656.19,0.0
+2024-09-04,Shopping,Online,Clothes shopping,4989.85,0.0
+2024-09-04,Miscellaneous,Cash,Amet laborum aspernatur impedit neque.,326.12,0.0
+2024-09-05,Transportation,Online,Metro travel,430.68,0.0
+2024-09-05,Education,Online,Course fees,8414.18,0.0
+2024-09-05,Insurance,Online,Vehicle insurance,1864.52,0.0
+2024-09-06,Shopping,Online,Home decor,1696.39,0.0
+2024-09-06,Food & Dining,Cash,Snacks,916.02,0.0
+2024-09-07,Utilities,Online,Sewage bill,1736.43,0.0
+2024-09-08,Groceries,Online,Vegetables & fruits,1592.45,0.0
+2024-09-08,Gifts,Online,Festival gift,382.65,0.0
+2024-09-09,Utilities,Online,Sewage bill,1719.69,0.0
+2024-09-09,Shopping,Online,Electronics,4887.63,0.0
+2024-09-10,Health,Cash,Medicines,601.09,0.0
+2024-09-11,Bills,Online,Phone bill,3803.92,0.0
+2024-09-11,Groceries,Cash,Vegetables & fruits,1484.5,0.0
+2024-09-12,Transportation,Online,Fuel refill (with 1% cashback offer),749.14,14.57
+2024-09-12,Shopping,Online,Electronics,530.36,0.0
+2024-09-12,Travel,Cash,Local sight-seeing,13982.88,0.0
+2024-09-13,Health,Online,Health check-up,819.03,0.0
+2024-09-14,Insurance,Cash,Health insurance premium,4030.74,0.0
+2024-09-14,Personal Care,Online,Salon visit,250.19,0.0
+2024-09-15,Health,Online,Medicines,2151.86,0.0
+2024-09-15,Entertainment,Online,Concert entry (with 0% cashback offer),456.85,2.69
+2024-09-16,Utilities,Online,Sewage bill,2070.65,0.0
+2024-09-17,Rent,Online,Monthly rent payment,8956.75,0.0
+2024-09-17,Rent,Cash,Monthly rent payment,20763.13,0.0
+2024-09-18,Miscellaneous,Cash,Excepturi qui consectetur dolores.,804.7,0.0
+2024-09-18,Transportation,Online,Cab ride,233.8,0.0
+2024-09-19,Travel,Online,Local sight-seeing,10917.19,0.0
+2024-09-19,Insurance,Online,Vehicle insurance,1752.72,0.0
+2024-09-20,Travel,Online,Flight ticket (with 0% cashback offer),14866.91,84.43
+2024-09-21,Utilities,Cash,Gas bill,1532.05,0.0
+2024-09-21,Education,Online,Course fees,7271.07,0.0
+2024-09-21,Health,Online,Health check-up,968.64,0.0
+2024-09-22,Insurance,Online,Health insurance premium,4729.5,0.0
+2024-09-22,Education,Cash,Course fees,3513.76,0.0
+2024-09-22,Bills,Online,Phone bill,6376.24,0.0
+2024-09-23,Travel,Online,Local sight-seeing,3627.69,0.0
+2024-09-23,Education,Online,Tuition (with 1% cashback offer),3461.78,66.29
+2024-09-24,Insurance,Cash,Vehicle insurance,2736.93,0.0
+2024-09-25,Utilities,Online,Sewage bill (with 0% cashback offer),1894.61,13.29
+2024-09-27,Health,Online,Medicines (with 1% cashback offer),811.67,8.55
+2024-09-27,Travel,Online,Flight ticket,7599.98,0.0
+2024-09-27,Gifts,Online,Birthday gift,843.17,0.0
+2024-09-28,Insurance,Online,Health insurance premium,2593.0,0.0
+2024-09-28,Health,Online,Doctor visit,1130.54,0.0
+2024-09-29,Travel,Online,Hotel booking (with 1% cashback offer),1719.11,26.73
+2024-09-30,Personal Care,Online,Cosmetics,210.3,0.0
+2024-10-01,Transportation,Online,Fuel refill,642.01,0.0
+2024-10-01,Education,Online,Tuition,8741.39,0.0
+2024-10-02,Miscellaneous,Cash,Occaecati blanditiis architecto sit odit.,167.74,0.0
+2024-10-02,Rent,Cash,Monthly rent payment,28129.19,0.0
+2024-10-03,Groceries,Online,Vegetables & fruits (with 1% cashback offer),2488.57,48.99
+2024-10-03,Shopping,Online,Online purchase,3806.57,0.0
+2024-10-05,Rent,Online,Monthly rent payment (with 1% cashback offer),14300.58,206.45
+2024-10-05,Transportation,Cash,Train ticket,418.64,0.0
+2024-10-06,Transportation,Online,Train ticket,930.01,0.0
+2024-10-06,Food & Dining,Online,Restaurant dinner,1216.32,0.0
+2024-10-06,Personal Care,Online,Haircut (with 0% cashback offer),509.85,2.78
+2024-10-07,Entertainment,Online,Concert entry (with 1% cashback offer),1451.7,17.69
+2024-10-07,Travel,Cash,Flight ticket,2199.31,0.0
+2024-10-09,Gifts,Online,Festival gift (with 0% cashback offer),1613.26,8.19
+2024-10-10,Entertainment,Online,Concert entry,729.68,0.0
+2024-10-10,Entertainment,Online,Books,770.99,0.0
+2024-10-11,Health,Online,Doctor visit,908.46,0.0
+2024-10-11,Miscellaneous,Online,Voluptates culpa quod officia.,532.12,0.0
+2024-10-12,Subscriptions,Online,Spotify premium,187.18,0.0
+2024-10-13,Entertainment,Online,Books (with 0% cashback offer),918.13,4.87
+2024-10-13,Education,Cash,Course fees,9182.01,0.0
+2024-10-14,Gifts,Online,Birthday gift,1204.7,0.0
+2024-10-15,Travel,Online,Travel insurance,13097.63,0.0
+2024-10-15,Utilities,Online,Sewage bill (with 1% cashback offer),1373.14,20.18
+2024-10-16,Personal Care,Cash,Cosmetics,570.41,0.0
+2024-10-16,Utilities,Online,Sewage bill,1076.99,0.0
+2024-10-17,Miscellaneous,Cash,Veniam minima.,385.68,0.0
+2024-10-18,Bills,Cash,Water bill,5054.25,0.0
+2024-10-19,Health,Online,Medicines,1196.27,0.0
+2024-10-20,Subscriptions,Online,Spotify premium,369.1,0.0
+2024-10-20,Insurance,Online,Health insurance premium (with 0% cashback offer),3348.82,23.83
+2024-10-21,Travel,Cash,Hotel booking,4280.02,0.0
+2024-10-21,Travel,Online,Hotel booking,12841.59,0.0
+2024-10-22,Transportation,Online,Bus fare (with 1% cashback offer),238.77,3.37
+2024-10-22,Rent,Online,Monthly rent payment,17526.62,0.0
+2024-10-23,Health,Cash,Health check-up,1145.94,0.0
+2024-10-24,Utilities,Online,Sewage bill (with 1% cashback offer),1439.03,22.24
+2024-10-24,Insurance,Online,Vehicle insurance,1667.1,0.0
+2024-10-25,Groceries,Online,Weekly groceries,2118.92,0.0
+2024-10-27,Rent,Online,Monthly rent payment (with 1% cashback offer),6828.34,93.36
+2024-10-27,Food & Dining,Online,Snacks (with 1% cashback offer),498.75,7.21
+2024-10-28,Rent,Online,Monthly rent payment (with 1% cashback offer),16387.33,165.25
+2024-10-28,Subscriptions,Online,Netflix subscription,341.71,0.0
+2024-10-29,Transportation,Cash,Metro travel,750.14,0.0
+2024-10-29,Entertainment,Cash,Gaming purchase,1192.16,0.0
+2024-10-30,Health,Online,Medicines (with 0% cashback offer),1384.1,10.28
+2024-10-31,Rent,Online,Monthly rent payment (with 1% cashback offer),6190.0,113.09
+2024-10-31,Insurance,Online,Vehicle insurance,3734.29,0.0
+2024-10-31,Utilities,Online,Sewage bill,1677.54,0.0
+2024-11-01,Groceries,Cash,Daily essentials,621.95,0.0
+2024-11-01,Miscellaneous,Online,Veritatis magni eos fuga hic.,842.64,0.0
+2024-11-01,Health,Online,Medicines,1781.4,0.0
+2024-11-03,Subscriptions,Cash,Gym membership,377.23,0.0
+2024-11-04,Travel,Cash,Flight ticket,12621.44,0.0
+2024-11-05,Entertainment,Online,Concert entry,1416.4,0.0
+2024-11-05,Personal Care,Cash,Haircut,430.3,0.0
+2024-11-05,Personal Care,Online,Pharmacy purchase,307.82,0.0
+2024-11-06,Entertainment,Cash,Books,573.61,0.0
+2024-11-07,Transportation,Online,Fuel refill,772.13,0.0
+2024-11-07,Utilities,Online,Gas bill,1685.42,0.0
+2024-11-07,Health,Online,Medicines,2133.22,0.0
+2024-11-08,Rent,Cash,Monthly rent payment,25156.21,0.0
+2024-11-08,Education,Online,Course fees,3554.75,0.0
+2024-11-09,Subscriptions,Online,Spotify premium,480.02,0.0
+2024-11-10,Transportation,Online,Train ticket,525.63,0.0
+2024-11-10,Food & Dining,Online,Snacks,514.25,0.0
+2024-11-11,Gifts,Online,Anniversary present,1891.63,0.0
+2024-11-11,Bills,Online,Water bill,4063.45,0.0
+2024-11-12,Utilities,Online,Gas bill,1715.49,0.0
+2024-11-13,Utilities,Online,Gas bill,1819.01,0.0
+2024-11-14,Gifts,Online,Anniversary present,350.53,0.0
+2024-11-14,Groceries,Online,Vegetables & fruits,1344.92,0.0
+2024-11-14,Groceries,Online,Daily essentials (with 1% cashback offer),2439.17,46.45
+2024-11-15,Gifts,Online,Festival gift,864.18,0.0
+2024-11-15,Insurance,Cash,Health insurance premium,1402.14,0.0
+2024-11-16,Utilities,Online,Gas bill,1812.65,0.0
+2024-11-16,Travel,Online,Local sight-seeing (with 0% cashback offer),3386.03,22.66
+2024-11-17,Travel,Online,Local sight-seeing,10319.13,0.0
+2024-11-18,Insurance,Online,Vehicle insurance,3736.19,0.0
+2024-11-19,Transportation,Online,Fuel refill (with 1% cashback offer),59.14,0.77
+2024-11-19,Transportation,Online,Cab ride,821.99,0.0
+2024-11-22,Transportation,Online,Bus fare (with 1% cashback offer),84.72,1.29
+2024-11-22,Food & Dining,Cash,Restaurant dinner,1382.73,0.0
+2024-11-22,Shopping,Online,Electronics (with 0% cashback offer),3420.83,23.53
+2024-11-24,Subscriptions,Online,Software license,420.45,0.0
+2024-11-24,Gifts,Online,Festival gift,471.16,0.0
+2024-11-25,Rent,Cash,Monthly rent payment,8454.78,0.0
+2024-11-26,Food & Dining,Cash,Lunch with colleagues,558.34,0.0
+2024-11-26,Travel,Cash,Hotel booking,9491.88,0.0
+2024-11-28,Food & Dining,Cash,Snacks,1211.05,0.0
+2024-11-29,Insurance,Online,Vehicle insurance,3384.37,0.0
+2024-11-30,Utilities,Online,Sewage bill,808.45,0.0
+2024-11-30,Transportation,Online,Bus fare (with 0% cashback offer),745.31,3.87
+2024-11-30,Subscriptions,Online,Software license,389.71,0.0
+2024-12-01,Education,Online,Tuition,4787.3,0.0
+2024-12-02,Rent,Online,Monthly rent payment,23688.74,0.0
+2024-12-02,Personal Care,Cash,Haircut,204.33,0.0
+2024-12-03,Rent,Online,Monthly rent payment,25323.8,0.0
+2024-12-03,Travel,Cash,Flight ticket,11890.41,0.0
+2024-12-04,Rent,Online,Monthly rent payment,13827.77,0.0
+2024-12-04,Bills,Online,Phone bill,3626.94,0.0
+2024-12-05,Subscriptions,Cash,Gym membership,192.92,0.0
+2024-12-05,Subscriptions,Online,Spotify premium (with 1% cashback offer),151.27,2.15
+2024-12-06,Travel,Cash,Local sight-seeing,1255.92,0.0
+2024-12-06,Transportation,Online,Cab ride,688.26,0.0
+2024-12-07,Utilities,Cash,Sewage bill,1173.34,0.0
+2024-12-07,Insurance,Online,Vehicle insurance (with 1% cashback offer),3597.11,38.25
+2024-12-07,Shopping,Online,Electronics,905.67,0.0
+2024-12-08,Utilities,Online,Gas bill (with 1% cashback offer),1178.33,13.66
+2024-12-09,Personal Care,Online,Pharmacy purchase,145.21,0.0
+2024-12-09,Rent,Online,Monthly rent payment,14062.97,0.0
+2024-12-09,Gifts,Online,Birthday gift (with 0% cashback offer),1228.08,11.34
+2024-12-10,Entertainment,Online,Concert entry,1455.44,0.0
+2024-12-10,Miscellaneous,Cash,Dolorum sequi facilis debitis culpa.,611.77,0.0
+2024-12-11,Travel,Online,Local sight-seeing,5779.36,0.0
+2024-12-12,Gifts,Cash,Birthday gift,1768.91,0.0
+2024-12-13,Miscellaneous,Online,Eum ab voluptatem illo et. (with 1% cashback offer),702.49,13.03
+2024-12-14,Miscellaneous,Online,Ea quidem nulla iste.,86.02,0.0
+2024-12-14,Miscellaneous,Cash,Suscipit a impedit deleniti.,731.61,0.0
+2024-12-14,Gifts,Online,Birthday gift (with 1% cashback offer),1303.14,19.01
+2024-12-16,Insurance,Cash,Health insurance premium,2793.41,0.0
+2024-12-16,Food & Dining,Online,Restaurant dinner,803.71,0.0
+2024-12-17,Entertainment,Online,Movie tickets (with 1% cashback offer),1314.04,14.72
+2024-12-18,Groceries,Online,Daily essentials,1097.19,0.0
+2024-12-18,Food & Dining,Cash,Restaurant dinner,808.7,0.0
+2024-12-19,Shopping,Cash,Electronics,3468.96,0.0
+2024-12-20,Miscellaneous,Online,Delectus deserunt. (with 1% cashback offer),944.09,14.32
+2024-12-20,Entertainment,Online,Movie tickets,651.5,0.0
+2024-12-21,Gifts,Cash,Birthday gift,919.5,0.0
+2024-12-21,Rent,Online,Monthly rent payment,25279.83,0.0
+2024-12-21,Utilities,Online,Sewage bill,1826.84,0.0
+2024-12-22,Subscriptions,Online,Spotify premium (with 1% cashback offer),199.37,2.36
+2024-12-22,Transportation,Online,Cab ride,374.69,0.0
+2024-12-23,Rent,Cash,Monthly rent payment,8919.73,0.0
+2024-12-23,Travel,Online,Hotel booking (with 0% cashback offer),6154.07,45.49
+2024-12-24,Food & Dining,Online,Snacks,1201.92,0.0
+2024-12-24,Entertainment,Online,Gaming purchase (with 1% cashback offer),937.97,13.48
+2024-12-24,Subscriptions,Cash,Gym membership,258.09,0.0
+2024-12-25,Food & Dining,Online,Snacks,968.88,0.0
+2024-12-25,Transportation,Cash,Metro travel,525.35,0.0
+2024-12-25,Personal Care,Cash,Haircut,144.04,0.0
+2024-12-26,Education,Online,Books for study,9587.66,0.0
+2024-12-27,Travel,Online,Flight ticket (with 1% cashback offer),1005.89,10.3
+2024-12-28,Shopping,Cash,Home decor,3554.85,0.0
+2024-12-29,Entertainment,Online,Concert entry,1276.94,0.0
+2024-12-29,Education,Online,Course fees (with 0% cashback offer),8426.51,49.18
+2024-12-29,Bills,Cash,Phone bill,4167.99,0.0
+2024-12-30,Health,Online,Health check-up,911.53,0.0
+2024-12-31,Personal Care,Online,Cosmetics,699.14,0.0
+2024-12-31,Education,Online,Tuition,3138.0,0.0
